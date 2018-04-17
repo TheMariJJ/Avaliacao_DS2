@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Avaliacao_Mariana\Avaliacao_Mariana\bin\Debug\Avaliacao_Mariana.exe
+C:\Users\Aluno\Desktop\Avaliacao_Mariana\Avaliacao_Mariana\bin\Debug\Avaliacao_Mariana.pdb
+C:\Users\Aluno\Desktop\Avaliacao_Mariana\Avaliacao_Mariana\obj\x86\Debug\Avaliacao_Mariana.CadCelular.resources
+C:\Users\Aluno\Desktop\Avaliacao_Mariana\Avaliacao_Mariana\obj\x86\Debug\Avaliacao_Mariana.CadCliente.resources
+C:\Users\Aluno\Desktop\Avaliacao_Mariana\Avaliacao_Mariana\obj\x86\Debug\Avaliacao_Mariana.frmMenu.resources
+C:\Users\Aluno\Desktop\Avaliacao_Mariana\Avaliacao_Mariana\obj\x86\Debug\Avaliacao_Mariana.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Avaliacao_Mariana\Avaliacao_Mariana\obj\x86\Debug\Avaliacao_Mariana.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Avaliacao_Mariana\Avaliacao_Mariana\obj\x86\Debug\Avaliacao_Mariana.exe
+C:\Users\Aluno\Desktop\Avaliacao_Mariana\Avaliacao_Mariana\obj\x86\Debug\Avaliacao_Mariana.pdb
+C:\Users\Aluno\Desktop\Avaliacao_Mariana\Avaliacao_Mariana\obj\x86\Debug\Avaliacao_Mariana.ConsultaCelular.resources
+C:\Users\Aluno\Desktop\Avaliacao_Mariana\Avaliacao_Mariana\obj\x86\Debug\Avaliacao_Mariana.ConsultaCliente.resources
